@@ -60,7 +60,13 @@ Ensure the API key is stored securely and not hardcoded into the application sou
      streamlit run app.py
      ```
 
+
+
 3. **User Interaction**:
    - Use the sidebar to input the blog title, keywords, desired word count, and number of images.
    - Click **Generate Blog** to create an AI-powered blog on your chosen topic.
 
+
+Screenshots of working 
+![Screenshot 2024-10-30 201643](https://github.com/user-attachments/assets/5fd53fc3-fc98-4337-921b-d1f8cea06071)
+![Screenshot 2024-10-30 211555](https://github.com/user-attachments/assets/44366908-334f-4421-a0e2-d5e79c52eceb)
