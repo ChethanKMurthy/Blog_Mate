@@ -1,2 +1,2 @@
-openai_api_key=""
-google_gemini_api_key="AIzaSyAJ4vw9UFZPk-ak_ElgCRkPesZ77-vwWr8"
+openai_api_key="please add your own API key"
+google_gemini_api_key="please add your own API key"
