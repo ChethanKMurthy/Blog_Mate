@@ -22,7 +22,6 @@ Welcome to **BlogMate**, an AI-driven blog generation tool designed for efficien
 
 To use BlogMate, set up the environment variable `GEMINI_API_KEY` to authenticate with Google Gemini's API.
 
-```bash
 export GEMINI_API_KEY='YOUR_API_KEY'
 
 ## 🌟 Features
