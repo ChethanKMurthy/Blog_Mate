@@ -59,7 +59,7 @@ Ensure the API key is stored securely and not hardcoded into the application sou
      ```bash
      streamlit run app.py
      ```
-
+http://localhost:8501/
 
 
 3. **User Interaction**:
